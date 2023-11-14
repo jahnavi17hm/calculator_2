@@ -1,0 +1,8 @@
+2023-11-14 23:43:47.811 [main] INFO  org.example.Main - subtraction of 11 and 15. Result: -4
+
+2023-11-14 23:43:47.820 [main] INFO  org.example.Main - addition of 12 and 23. Result: 35
+
+2023-11-14 23:43:47.824 [main] INFO  org.example.Main - multiplication of 11 and 11. Result: 121
+
+2023-11-14 23:43:47.826 [main] INFO  org.example.Main - modulus operation for 37 and 8. Result: 5
+
