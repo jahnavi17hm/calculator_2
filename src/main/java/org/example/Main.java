@@ -17,7 +17,7 @@ public class Main {
             System.out.println("1. Add");
             System.out.println("2. Subtract");
             System.out.println("3. Multiply");
-            System.out.println("4. Modulus5");
+            System.out.println("4. Modulus");
             System.out.println("5. Exit \n");
             System.out.print("Enter your choice: \n");
             op = reader.nextInt();
